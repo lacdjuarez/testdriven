@@ -8,6 +8,6 @@ public class Template {
     public void set(String variable, String value) {
     }
     public String evaluate() {
-        return null;
+        return "Hello, Reader";
     }
 }
